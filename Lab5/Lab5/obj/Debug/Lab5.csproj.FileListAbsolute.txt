@@ -1,0 +1,14 @@
+C:\Users\helio\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\helio\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\helio\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\helio\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\helio\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\helio\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\helio\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Desktop\Программирование\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Desktop\Программирование\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Desktop\Программирование\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Desktop\Программирование\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\Desktop\Программирование\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Desktop\Программирование\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Desktop\Программирование\Lab5\Lab5\obj\Debug\Lab5.pdb
