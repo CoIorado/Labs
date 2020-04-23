@@ -1,0 +1,6 @@
+C:\Users\helio\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\helio\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\helio\source\repos\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\helio\source\repos\Lab9\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\Users\helio\source\repos\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\helio\source\repos\Lab9\Lab9\obj\Debug\Lab9.pdb
