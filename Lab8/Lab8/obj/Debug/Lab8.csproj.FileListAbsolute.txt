@@ -1,0 +1,11 @@
+C:\Users\helio\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\helio\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\helio\source\repos\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.toolWindow.resources
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.MainForm.resources
+C:\Users\helio\source\repos\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
